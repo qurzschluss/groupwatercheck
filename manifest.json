@@ -6,8 +6,8 @@
  "farmware_manifest_version": "2.0.0",
  "package_version": "1.0.0",
  "farmbot_os_version_requirement": ">= 8.0.0",
- "url": "http://192.168.178.74:16418/manifest.json",
- "zip": "http://192.168.178.74:16418/hello-farmware-master.zip",
+ "url": "https://raw.githubusercontent.com/qurzschluss/groupwatercheck/master/manifest.json",
+ "zip": "https://github.com/qurzschluss/groupwatercheck/archive/master.zip",
  "executable": "python",
  "args": "groupwatercheck/groupwaterckeck.py"
 }
