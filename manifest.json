@@ -1,0 +1,13 @@
+{
+ "package": "Group Water Check",
+ "language": "python",
+ "author": "qurzschluss",
+ "description": "Run soil humidity check once for each group",
+ "farmware_manifest_version": "2.0.0",
+ "package_version": "1.0.0",
+ "farmbot_os_version_requirement": ">= 8.0.0",
+ "url": "http://192.168.178.74:16418/manifest.json",
+ "zip": "http://192.168.178.74:16418/hello-farmware-master.zip",
+ "executable": "python",
+ "args": "groupwatercheck/groupwaterckeck.py"
+}
